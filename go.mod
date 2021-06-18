@@ -1,3 +1,3 @@
-module github.com/xbsoftware/wfs
+module github.com/lVeliarl/wfs
 
 go 1.13
